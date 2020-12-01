@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: rabbitmq_springboot
+  rabbitmq:
+    host: 192.168.1.120
+    port: 5672
+    username: ycw
+    password: ycw
+    virtual-host: /myvirtual
